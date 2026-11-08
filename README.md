@@ -34,7 +34,6 @@ The project contains 34 SQL queries covering different types of medical data ana
 
 ## Files Included
 - `Medical_Data_History_SQL_Project.sql` – SQL script containing the project queries.
-- `Medical_Data_History_SQL_Project.docx` – Project documentation.
 
 ## Key Learning Outcomes
 Through this project, I practiced writing SQL queries, combining related tables, summarizing data, and extracting meaningful information from a medical database.
